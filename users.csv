@@ -1,0 +1,8 @@
+Username,Password,Role,Balance
+cashier,cashier,cashier,10
+manager,manager,manager,10
+customer,customer,customer,10000000
+test,test,customer,30000
+tos,tos,customer,9999790000
+regis,register,customer,1525000
+a,a,customer,325000

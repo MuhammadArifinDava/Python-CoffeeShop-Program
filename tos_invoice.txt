@@ -1,0 +1,6 @@
+RumahKita CoffeeShop Invoice
+Customer Name: tos
+Mocha: 2 x Rp. 35000.00
+Total Bill: Rp. 70000.00
+Payment Amount: Rp. 80000.00
+Change: Rp. 10000.00
